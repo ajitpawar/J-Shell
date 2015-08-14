@@ -2,19 +2,21 @@
 
 A simulation of Unix filesystem in Java with a Bash-like shell to interact with the virtual filesystem
 
-Commands supported:
-* get
-* grep
-* cat
-* cd
-* cp
-* ls
-* ln
-* echo
-* mkdir
-* mv
-* pwd
-* rm
+Commands supported by the virtual console:
+```
+get
+grep
+cat
+cd
+cp
+ls
+ln
+echo
+mkdir
+mv
+pwd
+rm
+```
 
 #### Usage
 > javac src/shell/JShell.java <br/>
